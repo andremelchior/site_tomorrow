@@ -1,7 +1,7 @@
 /* O seletor 'body' aplica estilos a todo o corpo da página. */
 body {
     font-family: Arial, sans-serif; /* Define a família da fonte. */
-    background-color: #f0f0f0;      /* Cor de fundo cinza claro. */
+    background-color: #44475a;      /* Cor de fundo cinza. */
     display: flex;                  /* Usa o modelo Flexbox para centralizar o conteúdo. */
     justify-content: center;        /* Centraliza o conteúdo horizontalmente. */
     align-items: center;            /* Centraliza o conteúdo verticalmente. */
